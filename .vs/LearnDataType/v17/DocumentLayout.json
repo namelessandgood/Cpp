@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Cpp learn\\LearnDataType\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1976E7-AB66-4868-87BA-83D984397394}|Opertations\\Opertations.vcxproj|D:\\Cpp learn\\LearnDataType\\Opertations\\Opertations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9A1976E7-AB66-4868-87BA-83D984397394}|Opertations\\Opertations.vcxproj|solutionrelative:Opertations\\Opertations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Opertations.cpp",
-              "DocumentMoniker": "D:\\Cpp learn\\LearnDataType\\Opertations\\Opertations.cpp",
-              "RelativeDocumentMoniker": "Opertations\\Opertations.cpp",
-              "ToolTip": "D:\\Cpp learn\\LearnDataType\\Opertations\\Opertations.cpp",
-              "RelativeToolTip": "Opertations\\Opertations.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-15T13:12:46.71Z",
-              "EditorCaption": ""
             }
           ]
         }
