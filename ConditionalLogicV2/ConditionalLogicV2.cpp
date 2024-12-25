@@ -1,8 +1,10 @@
 #include <iostream>
+
 using namespace std;
+
 int main()
 {
-      int a = 10 ,b=20;
+      int a = 10, b = 20;
       if(a>10 || b>a)
       {
             cout << "a is greater than 10 and positive" << '\n';
